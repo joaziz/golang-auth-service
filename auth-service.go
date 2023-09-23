@@ -1,4 +1,4 @@
-package golang_auth_service
+package joauth
 
 import "github.com/joaziz/golang-auth-service/routes"
 
